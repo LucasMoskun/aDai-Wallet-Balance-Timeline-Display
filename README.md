@@ -6,7 +6,7 @@ This project allows you to to view your aDai (Aave interest bearing token: https
 
 It runs in the browswer as a node/react application that connects with metamask to interact with the web3 aDai smart contract.
 
-It runs locally, there are two parts -- a server, that just stores persistant data, and a react browser frontent 
+It runs locally, there are two parts -- a server, that just stores persistant data, and a react browser frontend 
 
 ## requirements
 * https://www.npmjs.com/get-npm
