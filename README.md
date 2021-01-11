@@ -8,7 +8,7 @@ It runs in the browswer as a node/react application that connects with metamask 
 
 It runs locally, there are two parts -- a server, that just stores persistant data, and a react browser frontent 
 
-##requirements
+## requirements
 * https://www.npmjs.com/get-npm
 * https://metamask.io/download.html
 * Aave Dai deposit https://aave.com/
