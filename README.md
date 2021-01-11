@@ -1,6 +1,6 @@
 # aDai Wallet Balance Timeline Display
 
-![graph prievew](images/chart.jpeg)
+![graph prievew](adai_scan/images/chart.jpeg)
 
 This project allows you to to view your aDai (Aave interest bearing token: https://aave.com/aTokens/) wallet balance over time.
 
@@ -38,6 +38,6 @@ npm start
 * The graph should start to populate with current aDai balance
 * Queries every 15 seconds and updates in real time
 
-![graph prievew](images/chart2.png)
+![graph prievew](adai_scan/images/chart2.png)
 
 **Note\* This will not show the balance of all time for your account. It can only show data _you_ have queried with this tool. Queries will only happen while you have the page open. Data _will_ be presistent though thanks to the server so anytime you run it and revist later that data will still be shown**
