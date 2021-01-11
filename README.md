@@ -6,7 +6,7 @@ This project allows you to to view your aDai (Aave interest bearing token: https
 
 It runs in the browswer as a node/react application that connects with metamask to interact with the web3 aDai smart contract.
 
-It runs locally, there are two parts -- a server, that just stores persistant data, and a react browser frontend 
+It runs locally, there are two parts -- a server, that just stores persistant data, and a react browser frontend. 
 
 ## requirements
 * https://www.npmjs.com/get-npm
@@ -21,10 +21,10 @@ From root/json_server:
 npm install -g json-server
 json-server --watch db.json --port 5112 
 ````
-This will run the json server on port 5112. Everytime the client queries data from the smart contract, it will save the balance and time here
+This will run the json server on port 5112. Everytime the client queries data from the smart contract, it will save the balance and time here.
 
 #### Client
-From root/adai_scan
+From root/adai_scan:
 ````
 npm i @metamask/detect-provider
 npm i web3
