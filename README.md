@@ -33,7 +33,7 @@ npm i canvasjs
 npm start
 ````
 
-* If it doesn't open automatically navigate to http://localhost:5111/
+* If it doesn't open automatically, navigate to http://localhost:5111/
 * Confirm metamask wallet connection with the address you want to view
 * The graph should start to populate with current aDai balance
 * Queries every 15 seconds and updates in real time
